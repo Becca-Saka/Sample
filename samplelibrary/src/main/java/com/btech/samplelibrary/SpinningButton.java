@@ -71,9 +71,7 @@ public class SpinningButton extends androidx.appcompat.widget.AppCompatButton im
             animation = new RotateAnimation(360, 0, v.getWidth() / 2, v.getHeight() / 2);
         }
         animation.setDuration(500);
-        v.star
-
-    tAnimation(animation);
+        v.startAnimation(animation);
 
 
 
