@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/menu1"
+        android:icon="@android:drawable/btn_star_big_off"
+        android:title="Button111"
+        />
+    <item android:id="@+id/menu2"
+        android:icon="@android:drawable/btn_star_big_off"
+        android:title="Button12"
+        />
+    <item android:id="@+id/menu3"
+        android:icon="@android:drawable/btn_star_big_off"
+        android:title="Button13"
+        />
+    <item android:id="@+id/menu4"
+        android:icon="@android:drawable/btn_star_big_off"
+        android:title="Button14"
+        />
+
+
+</menu>
